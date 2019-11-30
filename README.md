@@ -5,6 +5,8 @@ Capstone project for Machine learning Nanodegree at Udacity
 
 In this project, I have built two models - RF model and a deep learning model - RNN (LSTM) model that predicts the human activities such as Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing or Laying.
 
+![](img/activity.jpg)
+
 ## Required Libary
  - numpy
  - tensorflow
